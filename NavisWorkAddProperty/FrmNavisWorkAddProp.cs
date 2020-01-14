@@ -163,7 +163,7 @@ namespace NavisWorkAddProperty
             }
 
         }
-
+//
         private void AddPropertyModelFile()
         {
             try
